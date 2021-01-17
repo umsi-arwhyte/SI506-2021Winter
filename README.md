@@ -1,1 +1,1 @@
-# SI506-2021Winter
+SI 506 course materials (Winter 2021)
