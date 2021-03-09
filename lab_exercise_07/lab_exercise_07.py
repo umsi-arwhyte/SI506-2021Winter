@@ -34,7 +34,7 @@ def avg_height(plants):
 
 
 # PROBLEM 2 (4 Points)
-def new_list(new_plants, plants):
+def add_plants(new_plants, plants):
     """
     This function takes in a nested list and list of dictionaries, alters the nested list into a
     key:value pair format, and appends the new key:value pairs to the list of dictionaries
@@ -95,8 +95,8 @@ def main():
     Returns:
         None
     """
-    new_houseplants = None
-    print(f'New houseplants list: {new_houseplants}')
+    new_houseplants_list = None
+    print(f'New houseplants list: {new_houseplants_list}')
 
     large_houseplants = None
     print(f'Large houseplants: {large_houseplants}')
