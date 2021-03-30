@@ -1,0 +1,14 @@
+Category,Discipline,Permalink
+Arts,Architecture,https://search.lib.umich.edu/databases?filter.academic_discipline=Architecture&sort=title_asc
+Arts,Music,https://search.lib.umich.edu/databases?filter.academic_discipline=Music&sort=title_asc
+Business,Careers,https://search.lib.umich.edu/databases?filter.academic_discipline=Careers&sort=title_asc
+Business,Finance,https://search.lib.umich.edu/databases?filter.academic_discipline=Finance&sort=title_asc
+Health Sciences,Family Medicine,https://search.lib.umich.edu/databases?filter.academic_discipline=Family+Medicine&sort=title_asc
+Health Sciences,Dentistry,https://search.lib.umich.edu/databases?filter.academic_discipline=Dentistry&sort=title_asc
+Health Sciences,Nursing,https://search.lib.umich.edu/databases?filter.academic_discipline=Nursing&sort=title_asc
+Health Sciences,Pediatrics,https://search.lib.umich.edu/databases?filter.academic_discipline=Pediatrics&sort=title_asc
+Health Sciences,Psychiatry,https://search.lib.umich.edu/databases?filter.academic_discipline=Psychiatry&sort=title_asc
+Humanities,Lingustics,https://search.lib.umich.edu/databases?filter.academic_discipline=Linguistics&sort=title_asc
+Science,Biology,https://search.lib.umich.edu/databases?filter.academic_discipline=Biology&sort=title_asc
+Science,Physiology,https://search.lib.umich.edu/databases?filter.academic_discipline=Physiology&sort=title_asc
+Science,Genetics,https://search.lib.umich.edu/databases?filter.academic_discipline=Genetics&sort=title_asc
