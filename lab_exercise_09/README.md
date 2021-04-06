@@ -69,7 +69,7 @@ Implement the `update_features()` method of the `ElectricVehicle` class by repla
 In this problem you will:
 1. Create a method to update the class instance
 
-Implement the `charge()` method of the `ElectricCar` class by replacing the `pass` statement with the appropriate code block. Read the method Docstring for additional implementation details.
+Implement the `charge()` method of the `ElectricVehicle` class by replacing the `pass` statement with the appropriate code block. Read the method Docstring for additional implementation details.
 ## 6.0 Problem 06 (3 Points)
 
 In this problem you will:
@@ -94,8 +94,8 @@ In this problem, you will:
 
 ### 7.2: Create `nissan`
 
-1. Instantiate an `ElectricCar` object with "Nissan" as the `brand`, "Leaf" as the `model`, 40 as the `battery_size`, and 2 as the `passengers`. Assign the object to `nissan`.
+1. Instantiate an `ElectricVehicle` object with "Nissan" as the `brand`, "Leaf" as the `model`, 40 as the `battery_size`, and 2 as the `passengers`. Assign the object to `nissan`.
 2. Call the `charge()` method on `nissan`. This should print the string "The vehicle is now fully charged." you created in Problem 5.
-3. Print the `battery_level` to ensure it is at 100 and not 0.
+3. Print the `battery_level` to ensure it is at 40 and not 0.
 4. Call the `get_connector` method on `nissan`. Print the return value to view the connector type.
 5. Print `nissan` to display the vehicle that is driving.
